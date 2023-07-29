@@ -1,0 +1,2 @@
+# bibliographicLint_Setup
+書誌事項Lintのセットアップファイル一式
