@@ -22,9 +22,10 @@
 ・setup.exe をクリックすると、書誌事項Lintセットアップ　ウィザードが開きます。
 
 <img width="390" alt="インストール0" src="https://github.com/k-ayaki/bibliographicLint_Setup/assets/40140916/bb6874c7-69db-4f74-b38f-873909990995">
-
+<br />
 <img width="390" alt="インストール1" src="https://github.com/k-ayaki/bibliographicLint_Setup/assets/40140916/7c84359f-1366-4ea5-8985-0a9263526d6d">
-
+<br />
 <img width="390" alt="インストール2" src="https://github.com/k-ayaki/bibliographicLint_Setup/assets/40140916/ce5df948-0703-46c9-b288-b82adccc2b6c">
-
+<br />
 <img width="390" alt="インストール3" src="https://github.com/k-ayaki/bibliographicLint_Setup/assets/40140916/f6bfe56d-c5f5-47c0-9d9f-d3427e4737c5">
+<br />
